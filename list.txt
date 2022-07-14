@@ -602,7 +602,7 @@ cigar-auctions.com
 civx.org
 ckaazaza.tk
 ckiso.com
-cl-cl.org
+cl-.org
 cl0ne.net
 claimab.com
 clandest.in
@@ -990,7 +990,7 @@ eposta.work
 eqiluxspam.ga
 ericjohnson.ml
 ero-tube.org
-esbano-ru.ru
+esbano-ru.
 esc.la
 escapehatchapp.com
 esemay.com
@@ -3401,7 +3401,7 @@ zainmax.net
 zaktouni.fr
 zarabotokdoma11.ru
 zasod.com
-zaym-zaym.ru
+zaym-.ru
 zdenka.net
 ze.tc
 zebins.com

@@ -1,5 +1,5 @@
 # FakeMailList
-a list of fake/temporary email adresses to block.
+a list of fake/temporary/joke email adresses to block.
 
 the list is available at the "FakeMailList.txt" file.
 

@@ -1616,7 +1616,6 @@ keepmymail.com
 keinhirn.de
 keipino.de
 kekita.com
-kellychibale-researchgroup-uct.com
 kemptvillebaseball.com
 kennedy808.com
 kiani.com
@@ -1678,7 +1677,6 @@ l-c-a.us
 l33r.eu
 l6factors.com
 labetteraverouge.at
-labworld.org
 lacedmail.com
 lackmail.net
 lackmail.ru
@@ -1976,7 +1974,6 @@ meinspamschutz.de
 meltedbrownies.com
 meltmail.com
 memsg.site
-mentonit.net
 mepost.pw
 merry.pink
 messagebeamer.de
@@ -2621,7 +2618,6 @@ sim-simka.ru
 simaenaga.com
 simpleitsecurity.info
 sin.cl
-sinaite.net
 sinema.ml
 sinfiltro.cl
 singlespride.com
@@ -2976,6 +2972,7 @@ tokem.co
 tokenmail.de
 tonaeto.com
 tonne.to
+tosya.com
 tonymanso.com
 toomail.biz
 toon.ml
@@ -3163,7 +3160,6 @@ viewcastmedia.net
 viewcastmedia.org
 vikingsonly.com
 vinernet.com
-vintomaper.com
 vipepe.com
 vipmail.name
 vipmail.pw
@@ -3365,7 +3361,6 @@ yodx.ro
 yogamaven.com
 yomail.info
 yoo.ro
-yopmail.com
 yopmail.fr
 yopmail.gq
 yopmail.net
@@ -3437,3 +3432,6 @@ zymuying.com
 zzi.us
 zzrgg.com
 zzz.com
+cl-cl.org
+esbano-ru.ru
+zaym-zaym.ru
